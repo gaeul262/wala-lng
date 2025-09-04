@@ -1,0 +1,13 @@
+C:\Users\Hirui\source\repos\QueueFormG\QueueFormG\bin\Debug\QueueFormG.exe.config
+C:\Users\Hirui\source\repos\QueueFormG\QueueFormG\bin\Debug\QueueFormG.exe
+C:\Users\Hirui\source\repos\QueueFormG\QueueFormG\bin\Debug\QueueFormG.pdb
+C:\Users\Hirui\source\repos\QueueFormG\QueueFormG\obj\Debug\QueueFormG.csproj.AssemblyReference.cache
+C:\Users\Hirui\source\repos\QueueFormG\QueueFormG\obj\Debug\QueueFormG.Properties.Resources.resources
+C:\Users\Hirui\source\repos\QueueFormG\QueueFormG\obj\Debug\QueueFormG.QueuingForm.resources
+C:\Users\Hirui\source\repos\QueueFormG\QueueFormG\obj\Debug\QueueFormG.csproj.GenerateResource.cache
+C:\Users\Hirui\source\repos\QueueFormG\QueueFormG\obj\Debug\QueueFormG.csproj.CoreCompileInputs.cache
+C:\Users\Hirui\source\repos\QueueFormG\QueueFormG\obj\Debug\QueueFormG.exe
+C:\Users\Hirui\source\repos\QueueFormG\QueueFormG\obj\Debug\QueueFormG.pdb
+C:\Users\Hirui\source\repos\QueueFormG\QueueFormG\obj\Debug\QueueFormG.exe.config
+C:\Users\Hirui\source\repos\QueueFormG\QueueFormG\obj\Debug\QueueFormG.CashierWindowQueueForm.resources
+C:\Users\Hirui\source\repos\QueueFormG\QueueFormG\obj\Debug\QueueFormG.NowServing.resources
